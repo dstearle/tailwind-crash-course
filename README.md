@@ -2,7 +2,7 @@
 
 <br>
 
-<strong>What is this project? :</strong>
+**What Is This Project? :**
 
 - This is a simple introduction to using the CSS framework called Tailwind and shows the basics of how to implement it into your project.
 
